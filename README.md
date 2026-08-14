@@ -2,7 +2,7 @@
 
 An AI operations copilot that transforms unstructured customer requests and notes into structured onboarding plans and readiness scores — identifying missing information, prioritizing next actions, and drafting the follow-up needed to move forward.
 
-**[Live demo](#)** — works immediately, no API key or setup required; all scoring and analysis is rule-based, not AI-generated.
+**[Live demo](https://onboarding-ops-copilot.vercel.app)** — works immediately, no API key or setup required; all scoring and analysis is rule-based, not AI-generated.
 
 ## Who it's for
 
